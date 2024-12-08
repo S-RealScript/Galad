@@ -158,7 +158,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "Galad Tbon Script ", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Galad Zaml داربيضاء "})
 
 local Tab1 = Window:MakeTab({
-	Name = " 📏 | Reach",
+	Name = " 📏 | Galad Big Ass",
 	Icon = "",
 	PremiumOnly = false
 })
@@ -319,7 +319,7 @@ local fakeRightLeg = game.Workspace[player.Name].Torso:FindFirstChild("Fake Righ
 })
 
 local Tab2 = Window:MakeTab({
-	Name = "🚀  | React",
+	Name = "🚀  | Big Bombs Galad",
 	Icon = "",
 	PremiumOnly = false
 })
@@ -634,7 +634,7 @@ Tab2:AddButton({
 
 
 local Tab3 = Window:MakeTab({
-	Name = "💨  | Helpers",
+	Name = "💨  | Ks AMin",
 	Icon = "",
 	PremiumOnly = false
 })
@@ -838,7 +838,7 @@ Tab3:AddToggle({
 
 
 local Tab4 = Window:MakeTab({
-	Name = "🛒  | Gamepasses",
+	Name = "🛒  | معاذ ميزاني عبد",
 	Icon = "",
 	PremiumOnly = false
 })
