@@ -155,10 +155,10 @@ end)
 
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Galad Tbon Script ", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Galad Zaml داربيضاء "})
+local Window = OrionLib:MakeWindow({Name = "معاذ ميزاني سكربت امبريري ", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "علي علي علي "})
 
 local Tab1 = Window:MakeTab({
-	Name = " 📏 | Galad Big Ass",
+	Name = " معاذ ريتش مكوة طويلة",
 	Icon = "",
 	PremiumOnly = false
 })
@@ -168,7 +168,7 @@ local Section = Tab1:AddSection({
 })
 
 Tab1:AddTextbox({
-	Name = "Reach Galad And Amin",
+	Name = "معاذ يزعب سلطان",
 	Default = "",
 	TextDisappear = true,
 	Callback = function(Studs)
@@ -319,7 +319,7 @@ local fakeRightLeg = game.Workspace[player.Name].Torso:FindFirstChild("Fake Righ
 })
 
 local Tab2 = Window:MakeTab({
-	Name = "🚀  | Big Bombs Galad",
+	Name = "معاذ رياكت طبون",
 	Icon = "",
 	PremiumOnly = false
 })
