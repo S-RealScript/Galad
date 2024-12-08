@@ -168,7 +168,7 @@ local Section = Tab1:AddSection({
 })
 
 Tab1:AddTextbox({
-	Name = "Reach",
+	Name = "Reach Galad And Amin",
 	Default = "",
 	TextDisappear = true,
 	Callback = function(Studs)
@@ -517,7 +517,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Vectoz React",
+	Name = "Amin React",
 	Callback = function()
         _G.Vector = Vector3.new(math.huge, math.huge, math.huge)
 
@@ -553,7 +553,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Keepz React",
+	Name = "Medo React",
 	Callback = function()
         local player = game:GetService("Players").LocalPlayer
 
@@ -589,7 +589,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Abz React",
+	Name = "Dev React",
 	Callback = function()
         _G.Vector = Vector3.new(math.huge, math.huge, math.huge)
 
@@ -626,7 +626,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Alz React",
+	Name = "Goat React",
 	Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/GrePU9TQ"))()  
   	end    
