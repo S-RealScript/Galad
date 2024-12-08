@@ -329,7 +329,7 @@ local Section = Tab2:AddSection({
 })
 
 Tab2:AddButton({
-	Name = "Tunaz React[Left Leg]",
+	Name = "Galad React[Left Leg]",
 	Callback = function()
         local player = game:GetService("Players").LocalPlayer
         local mouse = player:GetMouse()
@@ -405,7 +405,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Tunaz React[Right Leg]",
+	Name = "Galad React[Right Leg]",
 	Callback = function()
         local player = game:GetService("Players").LocalPlayer
         local mouse = player:GetMouse()
@@ -481,7 +481,7 @@ Tab2:AddButton({
 })
 
 Tab2:AddButton({
-	Name = "Fox React",
+	Name = "Galad VS Amin React",
 	Callback = function()
         _G.Vector = Vector3.new(math.huge, math.huge, math.huge)
 
